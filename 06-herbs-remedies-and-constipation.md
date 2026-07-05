@@ -53,9 +53,30 @@ Use only if the daily toolkit isn't enough on a given day.
 ---
 
 ## Cooling teas (dairy-free, anytime)
-- **CCF tea:** ¼–½ tsp each of **C**umin + **C**oriander + **F**ennel, simmered 5 min, strained. Aids digestion, gentle, balancing.
-- **Fennel tea:** ½ tsp fennel simmered — cooling, anti-gas, Pitta-friendly.
+- **CCF tea:** ¼–½ tsp each of **C**umin (jeeru) + **C**oriander (dhana) + **F**ennel (variyari), simmered 5 min, strained. Aids digestion, gentle, balancing.
+- **Fennel (variyari) tea:** ½ tsp simmered — cooling, anti-gas, Pitta-friendly, eases cramps.
 - **Coriander tea:** cooling, good for acidity.
+
+---
+
+## ⚠️ A note on ginger (it's heating — use carefully)
+Ginger is **pungent and heating (ushna)**, so **in excess it aggravates Pitta.** For this Pitta-leaning person:
+
+- ✅ **Fennel (variyari) is the default** digestive & cramp herb — it does the same job as ginger but is **cooling** and Pitta-safe.
+- ✅ **Small amount of *fresh* ginger, *cooked*** in dal/kichari is fine (helps Vata digestion & gas).
+- ⚠️ **Avoid dried ginger (sonth), raw ginger, large amounts, and strong ginger tea** — too heating, especially on high-acidity/high-Pitta days.
+
+| Purpose | ✅ Best (Pitta-safe) | ⚠️ Small/occasional | ❌ Avoid |
+|---|---|---|---|
+| Cramp / digestive tea | Fennel, CCF, coriander | Mild fresh-ginger tea + fennel + pinch rock sugar | Strong/dried-ginger tea |
+| Anti-gas in cooking | Hing, cumin, fennel | *Small, cooked* fresh ginger | Lots of ginger / dried sonth |
+
+---
+
+## See also
+- **Iron & anaemia** (food-first, constipation-safe): [`11-iron-and-anemia.md`](./11-iron-and-anemia.md)
+- **Shatavari** (forms, best brands, buying in Surat, churna & tablet dosing): [`12-shatavari-guide.md`](./12-shatavari-guide.md)
+- **Menstrual / cycle-day tweaks** (pause aloe on period days, etc.): [`10-menstrual-cycle-care.md`](./10-menstrual-cycle-care.md)
 
 ---
 

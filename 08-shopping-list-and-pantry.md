@@ -64,11 +64,21 @@ Stock these once and the whole plan becomes effortless. Everything here is **dai
 - [ ] **Triphala** (powder or tablets) — bedtime
 - [ ] **Aloe vera juice** (inner-leaf, aloin-reduced, food grade) — morning
 - [ ] **Isabgol** (psyllium husk)
-- [ ] **Shatavari** (powder/capsule)
+- [ ] **Shatavari** (pure *Asparagus racemosus* root — churna or tablet). **Best:** Kottakkal / Kerala Ayurveda churna · **Fine & easy to get:** Kapiva/Organic India (clean), Himalaya (tablets), Sri Sri Tattva (churna). **Avoid** sugary "Kalp/granules". *(Full guide: [`12-shatavari-guide.md`](./12-shatavari-guide.md))*
 - [ ] **Brahmi** (powder/capsule, optional)
 - [ ] **Castor oil** (small bottle — occasional escalation only)
 - [ ] Massage oil: **Brahmi oil** and/or plain sesame (cold weather) / coconut (hot weather)
 - [ ] Anu taila or cow ghee for optional **Nasya**
+
+## 🩸 Iron-boosting additions (for her — see [`11-iron-and-anemia.md`](./11-iron-and-anemia.md))
+- [ ] Black raisins (munakka), figs, prunes, dates — *iron + relieve constipation*
+- [ ] Amla (આમળાં) & pomegranate (દાડમ) — vitamin C boosts iron absorption
+- [ ] Beetroot, cooked leafy greens (spinach, methi, rajgira)
+- [ ] Black sesame (kala til) + jaggery (ગોળ) — small amounts (til-gud)
+- [ ] Ragi (finger millet) flour
+- [ ] Pumpkin & sunflower seeds (to soak)
+- [ ] **Cast-iron pan (loha kadai)** — cooking in it adds iron
+- *Note:* don't drink tea/coffee with iron meals; **test hemoglobin/ferritin/B12/folate before any iron pills.**
 
 ## 🧰 Tools
 - [ ] **Tongue scraper** (copper or steel)

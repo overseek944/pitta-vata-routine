@@ -64,4 +64,13 @@ Lie flat, completely still, let the body be heavy, breath natural.
 
 ---
 
+## 🩸 During menstruation (important adjustment)
+While actively bleeding, switch to **gentle / restorative only** — Ayurveda treats the period as a time to rest, and hard practice disturbs the downward flow (Apana Vata).
+
+- ✅ **Do:** Supta Baddha Konasana (reclining bound angle), Child's pose, gentle Cat-Cow, knees-to-chest (Pavanmuktasana), reclining rest.
+- ❌ **Avoid while bleeding:** **inversions** (including Legs-up-the-wall / Viparita Karani), **strong twists, deep backbends,** and any **fast/heating** practice.
+- Resume the full sequence after the period. Full details: [`10-menstrual-cycle-care.md`](./10-menstrual-cycle-care.md).
+
+---
+
 Next → [`05-pranayama-and-meditation.md`](./05-pranayama-and-meditation.md)

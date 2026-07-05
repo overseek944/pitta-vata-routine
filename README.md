@@ -26,7 +26,8 @@ Because the two doshas pull in opposite directions (Vata wants *warm/oily/heavy*
 4. **[`07-seven-day-plan.md`](./07-seven-day-plan.md)** is the heart of this repo: a day-by-day, item-by-item plan where **every single step is explained** — *what to do, why we do it, what it helps with, and why it specifically suits Pitta–Vata.*
 5. **[`08-shopping-list-and-pantry.md`](./08-shopping-list-and-pantry.md)** — stock the kitchen once.
 6. **[`09-rollout-and-habit-tracker.md`](./09-rollout-and-habit-tracker.md)** — *don't* do it all at once; layer it in over 4 weeks. Includes a printable tracker.
-7. **[`DISCLAIMER.md`](./DISCLAIMER.md)** — please read.
+7. **Women's-health add-ons:** [`10-menstrual-cycle-care.md`](./10-menstrual-cycle-care.md) (period pain, cycle-day tweaks, red flags), [`11-iron-and-anemia.md`](./11-iron-and-anemia.md) (boosting iron without constipation), [`12-shatavari-guide.md`](./12-shatavari-guide.md) (choosing, buying & taking Shatavari).
+8. **[`DISCLAIMER.md`](./DISCLAIMER.md)** — please read.
 
 ---
 
@@ -43,6 +44,9 @@ Because the two doshas pull in opposite directions (Vata wants *warm/oily/heavy*
 | [07-seven-day-plan.md](./07-seven-day-plan.md) | **The detailed 7-day plan — every step explained** |
 | [08-shopping-list-and-pantry.md](./08-shopping-list-and-pantry.md) | Shopping list, pantry staples, tools |
 | [09-rollout-and-habit-tracker.md](./09-rollout-and-habit-tracker.md) | 4-week phased rollout + habit tracker |
+| [10-menstrual-cycle-care.md](./10-menstrual-cycle-care.md) | Period pain & cramps, cycle-day routine tweaks, red flags to see a doctor |
+| [11-iron-and-anemia.md](./11-iron-and-anemia.md) | Boosting iron without worsening constipation/Pitta/Vata; test-first |
+| [12-shatavari-guide.md](./12-shatavari-guide.md) | Shatavari: forms, best brands, buying in Surat, churna & tablet dosing |
 | [DISCLAIMER.md](./DISCLAIMER.md) | Health/medical disclaimer |
 
 ---
@@ -52,5 +56,7 @@ Because the two doshas pull in opposite directions (Vata wants *warm/oily/heavy*
 - ✅ **Milk-free:** no cow's milk anywhere. Ghee is retained (clarified — virtually no lactose/casein). Where a "milk drink" is useful, **warm water + ghee** or **almond/oat milk** is used instead.
 - ✅ **Hot-climate aware:** tuned for a hot region (e.g. Gujarat) — extra hydration, cooling tilt within the warm-not-hot rule.
 - ✅ **Constipation-first:** lubricating (ghee, soaked fruit, Triphala, isabgol, aloe) rather than harsh heating stimulant laxatives like senna.
+- ✅ **Women's health included:** the plan is also followed by a 26-year-old woman, so it covers **painful periods, cycle-day adjustments, iron/anaemia, and Shatavari** (files 10–12).
+- 📝 **Fennel over ginger:** ginger is heating (aggravates Pitta), so **fennel (variyari)** is the default digestive/cramp herb here; ginger only in small, fresh, cooked amounts. See [`06`](./06-herbs-remedies-and-constipation.md).
 
 *This document is a personal wellness reference, not medical advice. See [`DISCLAIMER.md`](./DISCLAIMER.md).*
